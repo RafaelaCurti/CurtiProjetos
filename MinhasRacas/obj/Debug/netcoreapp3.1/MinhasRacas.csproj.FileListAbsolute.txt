@@ -1,0 +1,13 @@
+C:\Users\agropc.AGRO-DEV-08\source\repos\MinhasRacas\MinhasRacas\bin\Debug\netcoreapp3.1\MinhasRacas.exe
+C:\Users\agropc.AGRO-DEV-08\source\repos\MinhasRacas\MinhasRacas\bin\Debug\netcoreapp3.1\MinhasRacas.deps.json
+C:\Users\agropc.AGRO-DEV-08\source\repos\MinhasRacas\MinhasRacas\bin\Debug\netcoreapp3.1\MinhasRacas.runtimeconfig.json
+C:\Users\agropc.AGRO-DEV-08\source\repos\MinhasRacas\MinhasRacas\bin\Debug\netcoreapp3.1\MinhasRacas.runtimeconfig.dev.json
+C:\Users\agropc.AGRO-DEV-08\source\repos\MinhasRacas\MinhasRacas\bin\Debug\netcoreapp3.1\MinhasRacas.dll
+C:\Users\agropc.AGRO-DEV-08\source\repos\MinhasRacas\MinhasRacas\bin\Debug\netcoreapp3.1\MinhasRacas.pdb
+C:\Users\agropc.AGRO-DEV-08\source\repos\MinhasRacas\MinhasRacas\obj\Debug\netcoreapp3.1\MinhasRacas.csprojAssemblyReference.cache
+C:\Users\agropc.AGRO-DEV-08\source\repos\MinhasRacas\MinhasRacas\obj\Debug\netcoreapp3.1\MinhasRacas.AssemblyInfoInputs.cache
+C:\Users\agropc.AGRO-DEV-08\source\repos\MinhasRacas\MinhasRacas\obj\Debug\netcoreapp3.1\MinhasRacas.AssemblyInfo.cs
+C:\Users\agropc.AGRO-DEV-08\source\repos\MinhasRacas\MinhasRacas\obj\Debug\netcoreapp3.1\MinhasRacas.csproj.CoreCompileInputs.cache
+C:\Users\agropc.AGRO-DEV-08\source\repos\MinhasRacas\MinhasRacas\obj\Debug\netcoreapp3.1\MinhasRacas.dll
+C:\Users\agropc.AGRO-DEV-08\source\repos\MinhasRacas\MinhasRacas\obj\Debug\netcoreapp3.1\MinhasRacas.pdb
+C:\Users\agropc.AGRO-DEV-08\source\repos\MinhasRacas\MinhasRacas\obj\Debug\netcoreapp3.1\MinhasRacas.genruntimeconfig.cache
